@@ -488,7 +488,7 @@ settings. Which log in event viewer should you view?
 \t a. Application
 \t b. Security
 \t c. System
-\t d. □ NS
+\t d. DNS
 """,
     33: """33. Which function is provided by remote procedure call (RPC)?
 \t a. It identifies components within a distributed computing environment (DCE)
