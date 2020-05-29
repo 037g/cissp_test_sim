@@ -20,6 +20,9 @@ num    = 0
 totala = 0
 totalq = 0
 
+#Number of question
+numq = len(questions)
+
 #Clear screen
 def clear() -> None:
     """Clear the screen"""
@@ -52,10 +55,11 @@ if __name__ == "__main__":
     q = []
     clear()
     while True:
-        num = input("How many questions do you want to practice? 1-250 (X to exit): \n")
+        num = input("How many questions do you want to practice? 1-{} (X to exit): \n"
+                .format(numq))
         if num.isdigit():
             num = int(int(num.strip()))
-            if num > 0 and num < 251:
+            if num > 0 and num < numq:
                 q = random.sample(questions.keys(), num)
                 break
             else:
