@@ -118,4 +118,4 @@ if __name__ == "__main__":
     print("Scores from total questions")
     print(bc.OKGREEN + "# Right: " + str(right) + " " + rightq + "% " + bc.ENDC)
     print(bc.WARNING + "# Wrong: " + str(wrong) + " " + wrongq + "% " + bc.ENDC)
-    print("#Skipped: {}\n".format(skipq))
+    print(bc.WARNING + "# Skipped: {}\n".format(skipq) + bc.ENDC) 
