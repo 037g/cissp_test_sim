@@ -22,6 +22,7 @@ totalq = 0
 
 #Clear screen
 def clear() -> None:
+    """Clear the screen"""
     if name == "posix":
         _ = system("clear")
     else:
@@ -33,7 +34,7 @@ def ask(question_num: int) -> str:
 
     print(questions[question_num])
     print("(X to exit)")
-    reply = input(bc.OKBLUE + "Your Answer: " + bc.ENDC)
+    reply = input("{}Your Answer: {}".format(bc.OKBLUE, bc.ENDC))
     reply = reply.upper()
     if reply in ["A", "B", "C", "D", "E", "F", "G"]:
         if reply == answers[question_num]:
@@ -80,13 +81,13 @@ if __name__ == "__main__":
             right  += 1
             totala += 1
             i      += 1
-            print(bc.OKGREEN + "\nCorrect!!!\n\n" + bc.ENDC)
+            print("\n{}Correct!!!\n\n{}".format(bc.OKGREEN, bc.ENDC))
         elif result == "wrong":
             wrong  += 1
             totala += 1
             i      += 1
-            print(bc.WARNING + "\n Wrong!!! The correct Answer is " + bc.OKGREEN +
-                    answers[v] + "\n\n" + bc.ENDC)
+            print("\n{} Wrong!!! The correct Answer is {}{}\n\n{}".format(bc.WARNING,
+                bc.OKGREEN,answers[v], bc.ENDC))
         elif result == "exit":
             b = True
             break
@@ -112,10 +113,10 @@ if __name__ == "__main__":
     print("Questions answered: {} of {}\n".format(totala,num))
 
     print("Scores from questions answered:")
-    print(bc.OKGREEN + "# Right: " + str(right) + " " + righta + "% " + bc.ENDC)
-    print(bc.WARNING + "# Wrong: " + str(wrong) + " " + wronga + "% " + bc.ENDC + "\n")
+    print("{}# Right: {} {}% {}".format(bc.OKGREEN, str(right), righta, bc.ENDC))
+    print("{}# Wrong: {} {}% \n{}".format(bc.WARNING, str(wrong), wronga, bc.ENDC))
 
     print("Scores from total questions")
-    print(bc.OKGREEN + "# Right: " + str(right) + " " + rightq + "% " + bc.ENDC)
-    print(bc.WARNING + "# Wrong: " + str(wrong) + " " + wrongq + "% " + bc.ENDC)
-    print(bc.WARNING + "# Skipped: {}\n".format(skipq) + bc.ENDC) 
+    print("{}# Right: {} {}% {}".format(bc.OKGREEN, str(right), rightq, bc.ENDC))
+    print("{}# Wrong: {} {}% {}".format(bc.OKGREEN, str(wrong), wrongq, bc.ENDC))
+    print("{}# Skipped: {}\n{}".format(bc.WARNING, skipq, bc.ENDC)) 
