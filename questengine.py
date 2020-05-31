@@ -4,7 +4,7 @@ from string import ascii_lowercase
 
 class QuestEngine:
 	
-	def __init__(self, jsonfile:str, questioncount:int):
+	def __init__(self, questioncount:int, jsonfile:str='bank\cissp_questions.json'):
 		"""Use JSON files to make exams"""
 	
 		self.correct               = 0
@@ -40,7 +40,7 @@ class QuestEngine:
 		
 
 	def showQuestion(self, questionnumber:int) -> int:
-		"""Display question with answer placement randomized"""
+		"""Display question with answer placement randomized; return solution value"""
 
 		try:
 			questionNumber = self.questionNumbers[questionnumber]
@@ -62,7 +62,7 @@ class QuestEngine:
 			exit()
 
 numberOfQuestions = 3
-qe = QuestEngine('bank\cissp_questions.json', numberOfQuestions)
+qe = QuestEngine(numberOfQuestions)
 
 for n in range(0, numberOfQuestions):
-	qe.showQuestion(n)
+	ans = qe.showQuestion(n)
