@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+	  "question": "What is a passive measure that can be used to detect hacker attacks?",
+	  "answers": 
+		{  
+		  "1": "Event logging", 
+	      "2": "Firewall reconfiguration",
+          "3": "Connection termination",
+          "4": "Process termination"
+		},
+	  "solution": "1",
+	  "explanation": ""
+    },
+	{
+	  "question": "What is another term for technical controls?",
+	  "answers":
+	    {
+          "1": "Logical controls",
+		  "2": "Access controls",
+		  "3": "Detective controls",
+		  "4": "Preventative controls"
+		},
+      "solution": "1",
+	  "explanation": ""
+	},
+	{
+	  "question": "Which tool is an intrusion detection system (IDS)?",
+	  "answers":
+	    {
+		  "1": "Snort",
+		  "2": "Nessus",
+		  "3": "Tripwire",
+		  "4": "Ethereal"
+		},
+	  "solution": "1",
+	  "explanation": ""
+	}
+  ]
+}
