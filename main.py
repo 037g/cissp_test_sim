@@ -2,7 +2,7 @@
 # Simple test simulator.
 # See README and LICENSE
 ################################################
-import random
+#import random
 from questengine import QuestionEngine
 from helpers import bc, clear
 
@@ -14,13 +14,16 @@ num  = 0
 def ask(question_num: int) -> str:
     """Ask user question from dataset"""
 
-    question = qe.getQuestion(question_num)
-    answers  = qe.getAnswer(question_num)
-    print(question)
+    question    = qe.getQuestion(question_num)
+    answers     = qe.getAnswer(question_num)
+    answertable = {}
+    print("{}".format(question))
     for key, val in answers.items():
-	     print("{}. {}".format(key, val))
-
-    reply = input("{}Your Answer: {}".format(bc.OKBLUE, bc.ENDC))
+        for k, v in val.items():    		 
+            print(" {}. {}".format(key, v))
+            answertable[key] = k
+						
+    reply = input("\n{}Your Answer: {}".format(bc.OKBLUE, bc.ENDC))
     reply = reply.upper()
     if reply in ["A", "B", "C", "D", "E", "F", "G"]:
         if reply == answers[question_num]:
