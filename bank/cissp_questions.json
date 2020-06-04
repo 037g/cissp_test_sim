@@ -10,7 +10,7 @@
           "4": "Process termination"
 		},
 	  "solution": "1",
-	  "explanation": ""
+	  "explanation": null
     },
 	{
 	  "question": "What is another term for technical controls?",
@@ -22,7 +22,7 @@
 		  "4": "Preventative controls"
 		},
       "solution": "1",
-	  "explanation": ""
+	  "explanation": null
 	},
 	{
 	  "question": "Which tool is an intrusion detection system (IDS)?",
@@ -34,7 +34,7 @@
 		  "4": "Ethereal"
 		},
 	  "solution": "1",
-	  "explanation": ""
+	  "explanation": null
 	}
   ]
 }
