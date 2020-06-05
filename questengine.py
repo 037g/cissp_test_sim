@@ -83,16 +83,29 @@ class QuestionEngine:
 		return self.questionSet[questionnumber]['question']
 		
 	
-	def getAnswer(self, questionnumber:int) -> dict:
+	def getAnswers(self, questionnumber:int) -> dict:
 		"""Return dictionary with answers for given question"""
 		
 		return self.questionSet[questionnumber]['answers']
 		
 		
-	def getSolution(self, questionnumber:int) -> int:
+	def getSolutionText(self, questionnumber:int) -> str:
 		"""Return solution for given question"""
 		
-		return self.questionSet[questionnumber]['solution']
+		solution     = self.questionSet[questionnumber]['solution']
+		answers      = self.questionSet[questionnumber]['answers']
+		solutiontext = ""
+		if self.answerIsAlpha:
+			toconvert = { '1': 'a', '2': 'b', '3': 'c', '4': 'd', 
+					      '5': 'e', '6': '7', '7': 'g', '8': 'h', '9': 'i' }
+			for key, value in answers.items():
+				for k, v in value.items():
+					if solution == k:
+						solutiontext = v
+		#else:
+			
+
+		return solutiontext
 		
 		
 	def getExplanation(self, questionnumber:int) -> str:
@@ -125,13 +138,13 @@ class QuestionEngine:
 		return self.correct + self.incorrect
 		
 		
-	def compareAnswerSolution(self, questionnumber:int, answerguess:int) -> bool:
+	def compareSolution(self, questionnumber:int, answerguess:int) -> bool:
 		"""Compare value to solution"""
 		
-		solution = self.jsonData['questions'][questionNumber]['solution']
-		if answerguess == solution:
+		if answerguess == self.questionSet[questionnumber]['solution']:
 			return True
 		else:
 			return False
+		
 			
 	
