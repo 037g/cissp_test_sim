@@ -2,7 +2,6 @@
 # Simple test simulator.
 # See README and LICENSE
 ################################################
-#import random
 from questengine import QuestionEngine
 from helpers import bc, ask, clear
 
@@ -57,7 +56,6 @@ if __name__ == "__main__":
             else:
                 pass
 
-#    print("Total: {}\n Correct: {}\n Incorrect: {}".format(str(qe.questionCount), str(qe.correct), str(qe.incorrect)))
 
     clear()
     answered = qe.correct + qe.incorrect 
