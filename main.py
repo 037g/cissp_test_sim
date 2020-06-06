@@ -33,14 +33,14 @@ if __name__ == "__main__":
 
             result = ask(i, qe)
             if result == 'correct':
+                print("\n{}Correct!!! The Answer is: {}\n\n{}".format(bc.OKGREEN, qe.getSolutionText(i), bc.ENDC))
                 qe.correct += 1
                 i += 1
-                print("\n{}Correct!!! The Answer is: {}\n\n{}".format(bc.OKGREEN, qe.getSolutionText(i - 1), bc.ENDC))
             elif result == 'wrong':
+                print("\n{} Wrong!!! The correct Answer is: {}{}\n\n{}".format(bc.WARNING,
+                                                                               bc.OKGREEN, qe.getSolutionText(i), bc.ENDC))
                 qe.incorrect += 1
                 i += 1
-                print("\n{} Wrong!!! The correct Answer is: {}{}\n\n{}".format(bc.WARNING,
-                                                                               bc.OKGREEN, qe.getSolutionText(i - 1), bc.ENDC))
             elif result == "exit":
                 qn = qc
 
