@@ -41,7 +41,7 @@
         "3": "CHAP authentication",
         "4": "RADIUS authentication"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -52,7 +52,7 @@
         "3": "Open Web application security Project methodology",
         "4": "Vulnerability assessment and recovery methodology"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -63,7 +63,7 @@
         "3": "L2TP",
         "4": "Telnet"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -74,7 +74,7 @@
         "3": "Behavioral",
         "4": "Biological"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -85,7 +85,7 @@
         "3": "Ensure that all services use the main administrative account execute their processes",
         "4": "Issue a single account to each user regardless of his job function"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -96,7 +96,7 @@
         "3": "Fault generation",
         "4": "Side-channel attack"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -107,7 +107,7 @@
         "3": "Using a program to guess passwords from a SAM file",
         "4": "Gathering packets from a network connection"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -118,7 +118,7 @@
         "3": "ERR",
         "4": "FAR"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -129,7 +129,7 @@
         "3": "Dynamic password",
         "4": "Software generated password"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -140,7 +140,7 @@
         "3": "Job rotation",
         "4": "Security policy"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -151,7 +151,7 @@
         "3": "Behavior-based",
         "4": "Signature-based"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -162,7 +162,7 @@
         "3": "Security analyst",
         "4": "Security administrator"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -173,7 +173,7 @@
         "3": "Integrity",
         "4": " Authentication"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -184,7 +184,7 @@
         "3": "Accountability",
         "4": "Authentication"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -198,7 +198,7 @@
         "6": "all of the above choices",
         "7": "none of the choices"
       },
-      "solution": "6",
+      "solution": "",
       "explanation": null
     },
     {
@@ -209,7 +209,7 @@
         "3": "Behavior-based",
         "4": "Signature based"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -220,7 +220,7 @@
         "3": "It is the directory service used on a Windows server network",
         "4": "It is the authentication service used on a Windows server network"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -231,7 +231,7 @@
         "3": "A group",
         "4": "A permission"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -242,7 +242,7 @@
         "3": "Access control lists (ACLs)",
         "4": "Owner determined controls"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -253,7 +253,7 @@
         "3": "Authentication techniques",
         "4": "Access control techniques"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -264,7 +264,7 @@
         "3": "Data definition language (DDL)",
         "4": "Data manipulation language (DML)"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -275,7 +275,7 @@
         "3": "Semantic integrity",
         "4": "Cell suppression"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -286,7 +286,7 @@
         "3": "Aworm",
         "4": "A logic bomb"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -297,7 +297,7 @@
         "3": "Testing and development",
         "4": "Validity and production"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -308,7 +308,7 @@
         "3": "It is a model that describes the principles procedures and practices that should be followed by a developer in the software development cycle",
         "4": "It is a model based on analyzing the risk and building prototypes and simulations during the various phases of the software development cycle"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -319,7 +319,7 @@
         "3": "By using macro languages",
         "4": "By using digital and trusted certificates"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -330,7 +330,7 @@
         "3": "A logic bomb",
         "4": "A Trojan horse"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -341,7 +341,7 @@
         "3": "An assembler",
         "4": "An abstractor"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -352,7 +352,7 @@
         "3": "System",
         "4": "DNS"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -363,7 +363,7 @@
         "3": "It provides an integrated file system that all users in the distributed environment can share",
         "4": "It allows the execution of individual routines on remote computers across a network"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -374,7 +374,7 @@
         "3": "The changes are committed only if the transaction is verified on all systems and the database cannot be rolled back after committing the changes",
         "4": "Transactions are consistent throughout the different databases"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -385,7 +385,7 @@
         "3": "Assurance procedures focus on the applicability of the standard operating procedures",
         "4": "Assurance procedures ensure that the control mechanisms implement the security policy of an information system"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -396,7 +396,7 @@
         "3": "Control which systems are allowed to connect to and administer the Web server",
         "4": "Hardcode the authentication credentials into the administrative interface links"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -407,7 +407,7 @@
         "3": "It allows the attacker to reroute data traffic from a network device to a personal computer",
         "4": "It involves flooding the target system with malformed fragmented packets to disrupt operations"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -418,7 +418,7 @@
         "3": "Bind variables are used to replace values in SQL commands",
         "4": "Bind variables are used to enhance the performance of the database"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -429,7 +429,7 @@
         "3": "Perform a reasonable check",
         "4": "Develop a well-written program"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -440,7 +440,7 @@
         "3": "Trusted front end",
         "4": "Noise and perturbation"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -451,7 +451,7 @@
         "3": "Buffer overflow",
         "4": "Cookies"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -462,7 +462,7 @@
         "3": "Sending spoofed packets with the same source and destination address",
         "4": "Sending multiple spoofed packets with the SYN flag set to the target host of an open port"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -473,7 +473,7 @@
         "3": "Infrastructure changes",
         "4": "Organizational changes"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -484,7 +484,7 @@
         "3": "Separation of duties",
         "4": "Business continuity planning"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -495,7 +495,7 @@
         "3": "Reciprocal agreement",
         "4": "Continuity of operations plan (COOP)"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -506,7 +506,7 @@
         "3": "Warm site",
         "4": "Cold site"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -517,7 +517,7 @@
         "3": "Salvage team",
         "4": "Risk management team"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -528,7 +528,7 @@
         "3": "Cold site",
         "4": "Reciprocal agreement site"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -539,7 +539,7 @@
         "3": "Updating the plan",
         "4": "Training personnel"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -550,7 +550,7 @@
         "3": "An organization ensures that it's facility is fully restored at the alternate site",
         "4": "An organization transitions back to its original site"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -561,7 +561,7 @@
         "3": "Succession plan",
         "4": "Reciprocal agreement"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -572,7 +572,7 @@
         "3": "Amount of time facility needed",
         "4": "Resources available"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -583,7 +583,7 @@
         "3": "An interdependency",
         "4": "A backup strategy"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -594,7 +594,7 @@
         "3": "Complete a parallel test",
         "4": "Update the business continuity plan to include the new floor and its functions"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -605,7 +605,7 @@
         "3": "Business continuity plan",
         "4": "Business impact analysis (BIA)"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -616,7 +616,7 @@
         "3": "Cold site",
         "4": "Redundant site"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -627,7 +627,7 @@
         "3": "All the files on the hard disk that were changed or created since the incremental backup on Tuesday",
         "4": "All the files on the hard disk that were changed or created since the incremental backup on Wednesday"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -638,7 +638,7 @@
         "3": "A sprinkler",
         "4": "A surge suppressor"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -649,7 +649,7 @@
         "3": "Business impact analysis (BIA)",
         "4": "Occupant emergency plan (OEP)"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -660,7 +660,7 @@
         "3": "Exposure factor (EF) times annualized rate of occurrence (ARO)",
         "4": "Annualized loss expectancy (ALE) times annualized rate of occurrence (ARO)"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -671,7 +671,7 @@
         "3": "Three",
         "4": "Four"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -683,7 +683,7 @@
         "4": "Mean time between failure",
         "5": "Mean time to repair"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -694,7 +694,7 @@
         "3": "Restore all independent functions to the new primary site",
         "4": "Restore all interdependent functions to the new primary site"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -705,7 +705,7 @@
         "3": "After a disaster is declared",
         "4": "When the company is in normal operation mode"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -716,7 +716,7 @@
         "3": "Authorized users exchange symmetric session keys over a nonsecure medium",
         "4": "Unauthorized users exchange public keys over a nonsecure medium"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -727,7 +727,7 @@
         "3": "KDC",
         "4": "UDP"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -739,7 +739,7 @@
         "4": "RSA is a public key algorithm that performs both encryption and authentication",
         "5": "RSA uses public and private key signatures for integrity verification"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -750,7 +750,7 @@
         "3": "Message security protocol (MSP)",
         "4": "Pretty good privacy (PGP)"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -761,7 +761,7 @@
         "3": "Integrity",
         "4": "Non-repudiation"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -772,7 +772,7 @@
         "3": "Cipher text",
         "4": "Encryption"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -783,7 +783,7 @@
         "3": "Public keys",
         "4": "Serial numbers"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -794,7 +794,7 @@
         "3": "Symmetric message receipt",
         "4": "Asymmetric encryption"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -805,7 +805,7 @@
         "3": "The KOC is used to maintain and distribute public keys for each session",
         "4": "The KOC is used to store distribute and maintain cryptographic session keys"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -816,7 +816,7 @@
         "3": "IDEA",
         "4": "Blowfish"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -827,7 +827,7 @@
         "3": "Rijndael uses variable block lengths and fixed key lengths",
         "4": "Rijndael uses fixed block lengths and variable key lengths"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -838,7 +838,7 @@
         "3": "A side channel attack",
         "4": "A denial of service (DoS) attack"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -850,7 +850,7 @@
         "4": "SSL with TLS supports both server and client authentication",
         "5": "TLS has two possible session key lengths: 128 bit and 256 bit"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -861,7 +861,7 @@
         "3": "Asymmetric cryptography is used for secure key distribution",
         "4": "The symmetric algorithm generates public and private keys"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -872,7 +872,7 @@
         "3": "HTTP secure (HTTPS)",
         "4": "Internet protocol security (IPSec)"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -883,7 +883,7 @@
         "3": "SHA",
         "4": "MD5"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -894,7 +894,7 @@
         "3": "The public key of a user's certificate",
         "4": "The private key of a user's certificate"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -905,7 +905,7 @@
         "3": "Cross certification checks the authenticity of the certificates in the certification path",
         "4": "Cross certification allows users to validate each other's certificate when they are certified under different certification hierarchies"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -916,7 +916,7 @@
         "3": "TKIP",
         "4": "MOS"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -927,7 +927,7 @@
         "3": "It is very difficult for an attacker to gather the ciphertext in a network",
         "4": "A ciphertext only attack is considered by hackers to be the easiest attack"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -938,7 +938,7 @@
         "3": "Single loss expectancy (SLE)",
         "4": "Annualized loss expectancy (ALE)"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -949,7 +949,7 @@
         "3": "A target",
         "4": "A vulnerability"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -960,7 +960,7 @@
         "3": "All employees excluding top management should understand the legal implications of loss of information",
         "4": "All employees in the IT department should be able to handle social engineering attacks"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -971,7 +971,7 @@
         "3": "A qualitative risk analysis should be preferred for assigning monetary values",
         "4": "The risk of an internal security breach by employees is less than that posed by external threats"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -985,7 +985,7 @@
         "6": "Confidentiality and availability",
         "7": "Availability integrity and confidentiality"
       },
-      "solution": "7",
+      "solution": "",
       "explanation": null
     },
     {
@@ -996,7 +996,7 @@
         "3": "A data custodian must determine the classification of an information asset",
         "4": "The two primary classes of data classification deal with military institutions and commercial organizations"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1007,7 +1007,7 @@
         "3": "Detective controls",
         "4": "Administrative controls"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1018,7 +1018,7 @@
         "3": "Employees",
         "4": "Executives"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1029,7 +1029,7 @@
         "3": "Technical controls",
         "4": "Administrative controls"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1040,7 +1040,7 @@
         "3": "Brainstorming",
         "4": "Delphi technique"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1051,7 +1051,7 @@
         "3": "Requiring users to use only alphabetic words as passwords",
         "4": "Requiring users to periodically change their passwords"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1062,7 +1062,7 @@
         "3": "Acceptable use",
         "4": "Employee termination procedure"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1073,7 +1073,7 @@
         "3": "An event that indicates that a risk has occurred or is about to occur",
         "4": "An individual who is responsible for alerting the team when a given risk occurs"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1084,7 +1084,7 @@
         "3": "Requiring users to use easily remembered passwords",
         "4": "Requiring users to change passwords in 60 days rather than 90 days"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1095,7 +1095,7 @@
         "3": "Separation of duties",
         "4": "Rotation of duties"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1106,7 +1106,7 @@
         "3": "Integrated",
         "4": "Differential"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1117,7 +1117,7 @@
         "3": "Mitigation",
         "4": "Transference"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1128,7 +1128,7 @@
         "3": "To determine the overall impact that specific risks posed to successful project completion",
         "4": "To analyze the already prioritized risks in such a way as to give each a numerical rating"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1139,7 +1139,7 @@
         "3": "Mitigation",
         "4": "Transference"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1150,7 +1150,7 @@
         "3": "Employees",
         "4": "Executives"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1161,7 +1161,7 @@
         "3": "Security administrator",
         "4": "Security analyst"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1172,7 +1172,7 @@
         "3": "Confidentiality and integrity",
         "4": "Integrity and authenticity"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1183,7 +1183,7 @@
         "3": "It is not required at all",
         "4": "It is limited to the providing of funds"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1194,7 +1194,7 @@
         "3": "Most laws are drawn from ethics",
         "4": "Laws apply to everything in society that is right and wrong"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1205,7 +1205,7 @@
         "3": "Guarantee employee privacy",
         "4": "Monitor all users consistently and fairly"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1216,7 +1216,7 @@
         "3": "Sniffing",
         "4": "Salami"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1227,7 +1227,7 @@
         "3": "Quickly look for planted logic bombs and Trojan horses to ensure damage cannot be done",
         "4": "Power off the computer system"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1238,7 +1238,7 @@
         "3": "Civil",
         "4": "Common"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1249,7 +1249,7 @@
         "3": "Hearsay",
         "4": "Corroborative"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1260,7 +1260,7 @@
         "3": "Means",
         "4": "Capabilities"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1271,7 +1271,7 @@
         "3": "When the computer output is produced during the course of regular business",
         "4": "It is never admissible"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1282,7 +1282,7 @@
         "3": "A manager without a warrant can seize the information on a computer at a company that contains suspected child pornography information if the manager was directed by a police officer to obtain this information",
         "4": "If law enforcement has a warrant for a home computer in a case of suspected child pornography they can also confiscate the computers at the homeowner's office"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1293,7 +1293,7 @@
         "3": "Deals with laws develop to protect the public",
         "4": "Deals with commerce laws across borders"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1304,7 +1304,7 @@
         "3": "The definition of property has been expanded to include tangible property as in electronic information",
         "4": "The definition of property has been expanded to include tangible property as in secondary storage devices"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1315,7 +1315,7 @@
         "3": "Criminal law",
         "4": "Union law"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1326,7 +1326,7 @@
         "3": "Disgruntled employees",
         "4": "Managers"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1337,7 +1337,7 @@
         "3": "Masquerading",
         "4": "Passive"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1348,7 +1348,7 @@
         "3": "Any vendor that is interested in doing business in a country outside of theirs should be aware of the differences in these specific areas and take the necessary steps to properly protect their product",
         "4": "A vendor can choose between his country's laws and practices or the foreign country in which they do business"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1359,7 +1359,7 @@
         "3": "Protect national security",
         "4": "Protect individual rights"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1370,7 +1370,7 @@
         "3": "HIPM",
         "4": "Gramm Leach Bliley act of 1999"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1381,7 +1381,7 @@
         "3": "Masquerading",
         "4": "Data diddling"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1392,7 +1392,7 @@
         "3": "Direct evidence",
         "4": "Incident response policy"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1403,7 +1403,7 @@
         "3": "This act provides the necessary structure when dealing with espionage and further defines trade secrets to be technical business engineering scientific or financial",
         "4": "This act requires federal agencies to identify computer systems that will contain sensitive information"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1414,7 +1414,7 @@
         "3": "Entrapment",
         "4": "Salami attack"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1425,7 +1425,7 @@
         "3": "Conclusive evidence",
         "4": "Direct evidence"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1436,7 +1436,7 @@
         "3": "Maintenance hook",
         "4": "GUI"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1447,7 +1447,7 @@
         "3": "Non-interference",
         "4": "Clark Wilson"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1458,7 +1458,7 @@
         "3": "Multi use",
         "4": "Polymorphism"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1469,7 +1469,7 @@
         "3": "Real storage",
         "4": "Secondary storage"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1480,7 +1480,7 @@
         "3": "Confidentiality",
         "4": "Consistency"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1491,7 +1491,7 @@
         "3": "To ensure conflicts of interest are minimized through dynamic access control",
         "4": "To ensure that the integrity on an object at a higher level is not compromised"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1502,7 +1502,7 @@
         "3": "Primary storage",
         "4": "Combo storage"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1513,7 +1513,7 @@
         "3": "ALU",
         "4": "Ring 0"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1524,7 +1524,7 @@
         "3": "Reference monitor",
         "4": "Security domain"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1535,7 +1535,7 @@
         "3": "Security separation model",
         "4": "Noninterference model"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1546,7 +1546,7 @@
         "3": "Virtual machines",
         "4": "Protection rings"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1557,7 +1557,7 @@
         "3": "Certification evaluation accreditation",
         "4": "Certification accreditation evaluation"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1568,7 +1568,7 @@
         "3": "Clark-Wilson",
         "4": "Bell-LaPadula"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1579,7 +1579,7 @@
         "3": "Magnetic tape",
         "4": "Hard drive"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1590,7 +1590,7 @@
         "3": "Protective hardware components",
         "4": "Reference monitor and security kernel"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1601,7 +1601,7 @@
         "3": "Accreditation",
         "4": "Establish access control policies"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1612,7 +1612,7 @@
         "3": "Information flow",
         "4": "Graham Denning model"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1623,7 +1623,7 @@
         "3": "European assurance evaluation criteria",
         "4": "A penetration testing method"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1634,7 +1634,7 @@
         "3": "Operations security",
         "4": "ACL"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1645,7 +1645,7 @@
         "3": "Keystroke logging",
         "4": "Man in the middle"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1656,7 +1656,7 @@
         "3": "Prevention",
         "4": "Compensation"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1667,7 +1667,7 @@
         "3": "Mail relay which is a technique of bouncing e-mail from internal to external mail servers continuously",
         "4": "Tools that will reconfigure a mail server's relay component to send theemail back to the spammers occasionally"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1678,7 +1678,7 @@
         "3": "Ensuring changes in design and its verification process testing and implementation",
         "4": "Controlling changes in design and its verification of process testing and implementation"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1689,7 +1689,7 @@
         "3": "Redundancy",
         "4": "Secure boot"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1700,7 +1700,7 @@
         "3": "Preventive",
         "4": "Recovery"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1711,7 +1711,7 @@
         "3": "Change control",
         "4": "Operational assurance"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1722,7 +1722,7 @@
         "3": "Security policy",
         "4": "TCB"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1733,7 +1733,7 @@
         "3": "Enforces the need to know concept",
         "4": "Tendency of users to request additional privileges but seldom ask for it to be taken away"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1744,7 +1744,7 @@
         "3": "Accountability means that the creator of the company's access policy bears final accountability for any improper access",
         "4": "Accountability means that the entire IT department as creator of the company's access policy bears final accountability for any improper accesses"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1755,7 +1755,7 @@
         "3": "System cold start",
         "4": "Not starting"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1766,7 +1766,7 @@
         "3": "SMTP",
         "4": "ASCII"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1777,7 +1777,7 @@
         "3": "To enforce strict consistent companywide procedures",
         "4": "To provide clear instructions to all employees on how to initiate a change request"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1788,7 +1788,7 @@
         "3": "Use TCP wrappers on vulnerable services that have to be available",
         "4": "Disable unnecessary ports and services"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1799,7 +1799,7 @@
         "3": "Fingerprinting",
         "4": "Man in the middle"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1810,7 +1810,7 @@
         "3": "To re-amplify a signal",
         "4": "To track network connections"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1821,7 +1821,7 @@
         "3": "Proximate causation",
         "4": "Due care"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1832,7 +1832,7 @@
         "3": "After a system upgrade",
         "4": "For authorized on-demand requests"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1843,7 +1843,7 @@
         "3": "Wiretapping",
         "4": "Magnetizing"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1854,7 +1854,7 @@
         "3": "Sticky bits",
         "4": "Remanence"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1865,7 +1865,7 @@
         "3": "MTTR",
         "4": "MTBF"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1876,7 +1876,7 @@
         "3": "Dry pipe",
         "4": "Pre-action"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1887,7 +1887,7 @@
         "3": "MTBF and NOA",
         "4": "MTTR and TCSEC"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1898,7 +1898,7 @@
         "3": "Ghost UPS",
         "4": "Generator"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1909,7 +1909,7 @@
         "3": "Exterior barriers",
         "4": "Walls"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1920,7 +1920,7 @@
         "3": "Heat activated detector",
         "4": "Flame activated detector"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1931,7 +1931,7 @@
         "3": "Theft",
         "4": "Fire"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1942,7 +1942,7 @@
         "3": "Security guards",
         "4": "Security dogs"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1953,7 +1953,7 @@
         "3": "To create different work areas",
         "4": "To create barriers between areas"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1964,7 +1964,7 @@
         "3": "Halon",
         "4": "Freon"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1975,7 +1975,7 @@
         "3": "Oil-based paint",
         "4": "Paper"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1986,7 +1986,7 @@
         "3": "Mantrap",
         "4": "Man in the middle"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -1997,7 +1997,7 @@
         "3": "Change in microwaves within room",
         "4": "Breakage of foil strip in window"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2008,7 +2008,7 @@
         "3": "Comfortable sitting areas around workstations",
         "4": "Strict physical access controls"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2016,10 +2016,10 @@
       "answers": {
         "1": "Humidity level of 50%",
         "2": "Carpeting",
-        "3": "Room temperature around 72\u00c2\u00b0F",
+        "3": "Room temperature around 72°F",
         "4": "Independent HVAC and ventilation systems"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2030,7 +2030,7 @@
         "3": "The unprotected area around the security perimeter fence",
         "4": "a VPN tunnel"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2041,7 +2041,7 @@
         "3": "This is an illumination metric used for lighting",
         "4": "Each lit area must be within 2 feet of the next lit area"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2052,7 +2052,7 @@
         "3": "Redistribute cords to other outlets",
         "4": "UPS"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2063,7 +2063,7 @@
         "3": "High humidity levels can damage or destroy computer parts",
         "4": "High humidity levels make the possibility of fire more likely"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2074,7 +2074,7 @@
         "3": "Closed-circuit TV",
         "4": "Acoustical seismic detection system"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2085,7 +2085,7 @@
         "3": "They provide judgment and understanding of different situations",
         "4": "They are cheaper than most automated detection systems"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2096,7 +2096,7 @@
         "3": "Deluge system",
         "4": "Dry pipe system"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2107,7 +2107,7 @@
         "3": "Install antistatic flooring",
         "4": "Ensure proper grounding"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2118,7 +2118,7 @@
         "3": "UDP",
         "4": "ARP"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2129,7 +2129,7 @@
         "3": "T1",
         "4": "M1"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2140,7 +2140,7 @@
         "3": "ATM",
         "4": "FOOi"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2151,7 +2151,7 @@
         "3": "Their presence and activities are not detectable",
         "4": "They can access sensitive data within applications"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2162,7 +2162,7 @@
         "3": "Stateful",
         "4": "Dual homed"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2173,7 +2173,7 @@
         "3": "Router",
         "4": "Hostname"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2184,7 +2184,7 @@
         "3": "File transfer protocol (FTP)",
         "4": "Simple network management protocol (SNMP)"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2195,7 +2195,7 @@
         "3": "X.25",
         "4": "SMDS"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2206,7 +2206,7 @@
         "3": "Bridge",
         "4": "Router"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2217,7 +2217,7 @@
         "3": "Repeater",
         "4": "Gateway"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2228,7 +2228,7 @@
         "3": "Inflexible and expensive",
         "4": "Uses packet switching technology"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2239,7 +2239,7 @@
         "3": "Mesh",
         "4": "Tree"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2250,7 +2250,7 @@
         "3": "Address resolution protocol",
         "4": "Multiplexing"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2261,7 +2261,7 @@
         "3": "No data integrity can be performed as users move from one AP to another",
         "4": "Wardriving can uncover traffic AP and station location"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2272,7 +2272,7 @@
         "3": "Check with law enforcement such as the FBI",
         "4": "Follow procedures in your DRP"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2283,7 +2283,7 @@
         "3": "Computer-targeted crime",
         "4": "Computer due care crime"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2294,7 +2294,7 @@
         "3": "Trademark law",
         "4": "Copyright law"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2305,7 +2305,7 @@
         "3": "Act honorably honestly justly responsibly and legally",
         "4": "Protect society the commonwealth (nation) and the infrastructure"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2316,7 +2316,7 @@
         "3": "Privacy of your employee's information",
         "4": "Guidelines for due care and due diligence."
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2327,7 +2327,7 @@
         "3": "Continuous improvement",
         "4": "Employment candidate screening"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2338,7 +2338,7 @@
         "3": "Prepare a Gantt chart",
         "4": "Identifying threats and threat agents"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2349,7 +2349,7 @@
         "3": "Data Custodian",
         "4": "CISO"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2360,7 +2360,7 @@
         "3": "Evaluation of lessons learned",
         "4": "Scoping"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2371,7 +2371,7 @@
         "3": "Bell LaPadula",
         "4": "Clark Wilson"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2382,7 +2382,7 @@
         "3": "Quantum",
         "4": "SHA2"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2393,7 +2393,7 @@
         "3": "Safe",
         "4": "Faraday Cage"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2404,7 +2404,7 @@
         "3": "Assess the security controls",
         "4": "Select an initial set of baseline security controls"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2415,7 +2415,7 @@
         "3": "Sender's Public Key",
         "4": "Pseudo Random Number Generator"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2426,7 +2426,7 @@
         "3": "Plenum Space",
         "4": "HVAC"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2437,7 +2437,7 @@
         "3": "In conjunction with routers running OSPF",
         "4": "In a SCADA or ICS systems"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2448,7 +2448,7 @@
         "3": "RC4 as a strong replacement for WEP",
         "4": "Digital signatures for non-repudiation"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2459,7 +2459,7 @@
         "3": "Tort",
         "4": "Regulatory"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2470,7 +2470,7 @@
         "3": "Content Distribution Network",
         "4": "Private cloud for laaS"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2481,7 +2481,7 @@
         "3": "Use a type 2 hypervisor with Linux to host guest OSs",
         "4": "Use a type 1 hypervisor to host guest OSs"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2492,7 +2492,7 @@
         "3": "Software Defined Storage",
         "4": "Implementing PVLANs"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2503,7 +2503,7 @@
         "3": "Single Sign On (SSO)",
         "4": "An authentication system"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2514,7 +2514,7 @@
         "3": "Vulnerability Scan",
         "4": "Port Scan"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2525,7 +2525,7 @@
         "3": "Code review",
         "4": "Synthetic Transactions"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2536,7 +2536,7 @@
         "3": "Privilege Escalation",
         "4": "Escalation from an Incident to a Disaster"
       },
-      "solution": "1",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2547,7 +2547,7 @@
         "3": "Operational Investigation",
         "4": "Steganography"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2558,7 +2558,7 @@
         "3": "Risk assessment",
         "4": "Risk management"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2569,7 +2569,7 @@
         "3": "Risk Assessment",
         "4": "Vulnerability Assessment"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2580,7 +2580,7 @@
         "3": "Clipping levels",
         "4": "TOC/TOU"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2591,7 +2591,7 @@
         "3": "Artificial neural network",
         "4": "Deadlock situation"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2602,7 +2602,7 @@
         "3": "Is concealed in a Trojan horse program",
         "4": "Is the point at which FRR and FAR are equal"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2613,7 +2613,7 @@
         "3": "2002: : 3210: 800: 200C:CF: 1234",
         "4": "2002: : 3210: 8: 200C:CF: 1234"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2624,7 +2624,7 @@
         "3": "Stateless",
         "4": "Packet Filter"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2635,7 +2635,7 @@
         "3": "Security Association (SA)",
         "4": "SAML (Security Association Markup Language)"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2646,7 +2646,7 @@
         "3": "Cracked Door",
         "4": "Trojan Horse"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2657,7 +2657,7 @@
         "3": "Blue Fishing",
         "4": "Blue Jacking"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2668,7 +2668,7 @@
         "3": "Business Continuity Plan",
         "4": "Business Resumption Plan"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2679,7 +2679,7 @@
         "3": "Key Escrow",
         "4": "Software Escrow"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2690,7 +2690,7 @@
         "3": "Certification Authority",
         "4": "Certificate Authority"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2701,7 +2701,7 @@
         "3": "laaS",
         "4": "SaaS"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2712,7 +2712,7 @@
         "3": "EAL Level 4",
         "4": "EAL Level 5"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2723,7 +2723,7 @@
         "3": "Secure Channel",
         "4": "Covert Channel"
       },
-      "solution": "4",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2734,7 +2734,7 @@
         "3": "Buffer Overflow",
         "4": "Cross-site Request Forgery"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2745,7 +2745,7 @@
         "3": "Degauss old hard drives",
         "4": "Overwrite old drives three times"
       },
-      "solution": "3",
+      "solution": "",
       "explanation": null
     },
     {
@@ -2756,7 +2756,7 @@
         "3": "Integration testing",
         "4": "Unit testing"
       },
-      "solution": "2",
+      "solution": "",
       "explanation": null
     }
   ]
