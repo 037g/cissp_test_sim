@@ -24,15 +24,14 @@ def ask(question_num: int, questionset:QuestionEngine) -> str:
 	
     reply = input("\n{}Your Answer: {}".format(bc.OKBLUE, bc.ENDC))
     reply = reply.lower()
-    if questionset.compareSolution(question_num, answertable[reply]):
+    if reply == "x":
+        return "exit"
+    elif questionset.compareSolution(question_num, answertable[reply]):
         return 'correct'
     else:
         return 'wrong'
-    
-    if reply == "x":
-        return "exit"
-    else:
-        return "error"
+  
+
 	
 #Clear screen
 def clear() -> None:

@@ -8,40 +8,72 @@ from helpers import bc, ask, clear
 
 #Main
 if __name__ == "__main__":
-    qe = QuestionEngine(3)
-
+    qe = QuestionEngine()
+    qc = 0
+	
     clear()
     while True:
-        num = input("How many questions do you want to practice? 1-{} (X to exit): \n"
+        qc = input("How many questions do you want to practice? 1-{} (X to exit): \n"
 		     .format(qe.totalQuestions))
-        if num == "x" or num == "X":
+        if qc == "x" or qc == "X":
             exit()
-        elif num.isdigit() and (int(num) > 0 
-		                   and  int(num) <= qe.totalQuestions):
+        elif qc.isdigit() and (int(qc) > 0 
+		                  and  int(qc) <= qe.totalQuestions):
             break
         else:
             clear()
+			
+    i       = 0
+    is_done = False
+    result  = None
+    while True:
+        try:
+            qn = i + 1
+            clear()
+            print("Question {} of {} (X to exit)\n".format(qn, qc))
+
+            result = ask(i, qe)
+            if result == 'correct':
+                qe.correct += 1
+                i += 1
+                print("\n{}Correct!!!\n\n{}".format(bc.OKGREEN, bc.ENDC))
+            elif result == 'wrong':
+                qe.incorrect += 1
+                i += 1
+                print("\n{} Wrong!!! The correct Answer is: {}{}\n\n{}".format(bc.WARNING,
+                        bc.OKGREEN, qe.getSolutionText(i), bc.ENDC))
+            elif result == "exit":
+                qn = qc
+
+            if int(qn) == int(qc):
+                break
+            else:
+                input("Press ENTER to continue...")
 		
-    for q in range(0, int(num)):
-        clear()
-        print("Question {} of {} (X to exit)\n".format(q + 1, qe.totalQuestions))
+        except Exception as e:
+            clear()
+            if int(qn) == int(qc):
+                break
+            else:
+                pass
 
-        result = ask(q, qe)
-        if result == 'correct':
-            print("\n{}Correct!!!\n\n{}".format(bc.OKGREEN, bc.ENDC))
-        elif result == 'wrong':
-            print("\n{} Wrong!!! The correct Answer is: {}{}\n\n{}".format(bc.WARNING,
-                bc.OKGREEN, qe.getSolutionText(q), bc.ENDC))
-        elif result == "exit":
-            b = True
-    
-        input("Press ENTER to continue...")
+#    print("Total: {}\n Correct: {}\n Incorrect: {}".format(str(qe.questionCount), str(qe.correct), str(qe.incorrect)))
 
-'''
     clear()
-    #Display results
+    answered = qe.correct + qe.incorrect 
+    right   = qe.correct
+    wrong   = qe.incorrect
+    if answered == 0:
+        righta = "0.0"
+        wronga = "0.0"
+    else:
+        righta = int(right) / int(answered) * 100
+        wronga = wrong / int(answered) * 100
+    rightq = int(right) / int(qc) * 100
+    wrongq = wrong / int(qc) * 100
+    skipq  = int(qc) - int(answered)
     print("Results:")
-    print("Questions answered: {} of {}\n".format(totala, num))
+    print("Questions answered: {} of {}\n".format(answered, qc))
 
     print("Scores from questions answered:")
     print("{}# Right: {} {}% {}".format(bc.OKGREEN, str(right), righta, bc.ENDC))
@@ -51,4 +83,3 @@ if __name__ == "__main__":
     print("{}# Right: {} {}% {}".format(bc.OKGREEN, str(right), rightq, bc.ENDC))
     print("{}# Wrong: {} {}% {}".format(bc.OKGREEN, str(wrong), wrongq, bc.ENDC))
     print("{}# Skipped: {}\n{}".format(bc.WARNING, skipq, bc.ENDC)) 
-'''
