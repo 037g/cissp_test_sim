@@ -1,11 +1,12 @@
 import json
 import random
+from pathlib import Path
 
 
 class QuestionEngine:
 
-    def __init__(self, jsonfile: str = 'bank\cissp_questions.json',
-                 questionisrandom=True,
+    def __init__(self, jsonfile: str = 'bank/cissp_questions.json',
+                 questionisrandom: bool = True,
                  answerisalpha: bool = True,
                  answerisrandom: bool = True):
         """Use JSON files to make exams"""
@@ -24,7 +25,8 @@ class QuestionEngine:
     def __loadJsonFile(self) -> dict:
         """Load the json question file"""
 
-        with open(self._jsonFile) as f:
+        jsonDataFile = Path(self._jsonFile)
+        with open(jsonDataFile) as f:
             self._jsonData = json.load(f)
         f.close()
 
